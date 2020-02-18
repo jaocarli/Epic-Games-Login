@@ -14,8 +14,8 @@
   <br>
   
   ### :computer: Linguagens e Tecnologias usadas para recriar a interface:
-  Este projeto foi desenvolvido com as seguintes linguagens e tecnologias:
-    - [Figma](https://www.figma.com/) para recriar a UI. Clique [aqui](https://www.figma.com/file/ekUo5K7Z883pUr84OV2ABk/Epic-Games-Login-Screen-Clone?node-id=0%3A1) para ter acesso ao mesmo. :smile:
+  Este projeto foi desenvolvido com as seguintes linguagens e tecnologias:<br>
+    - [Figma](https://www.figma.com/) para recriar a UI. Clique [aqui](https://www.figma.com/file/ekUo5K7Z883pUr84OV2ABk/Epic-Games-Login-Screen-Clone?node-id=0%3A1) para ter acesso ao mesmo. :smile: <br>
     - [JQuery](https://jquery.com/)
 
   ### 🎮 Projeto
