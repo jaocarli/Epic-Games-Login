@@ -15,11 +15,11 @@
   
   ### :computer: Linguagens e Tecnologias usadas para recriar a interface:
   Abaixo estão os links de tudo que foi usado:<br>
-    - [Figma](https://www.figma.com/) para recriar a UI. Clique [aqui](https://www.figma.com/file/ekUo5K7Z883pUr84OV2ABk/Epic-Games-Login-Screen-Clone?node-id=0%3A1) para ter acesso ao mesmo. :smile: <br>
+    - [Figma](https://www.figma.com/) para recriar a UI. Clique [aqui](https://www.figma.com/file/ekUo5K7Z883pUr84OV2ABk/Epic-Games-Login-Screen-Clone?node-id=0%3A1) para ter acesso ao mesmo. :smile:
     - [JQuery](https://jquery.com/)
 
   ### 🎮 Projeto
-  A ideia de recriar a tela de login da <b>Epic Games</b> nasceu durante a <b>MaratonaDev 3.0</b>, na qual criamos o projeto [Doe](https://github.com/fl4m3x/doe). 
+  A ideia de recriar a tela de login da <b>Epic Games</b> nasceu durante a <b>MaratonaDev 3.0</b>, na qual criamos o projeto [Doe](https://github.com/fl4m3x/doe). Para visualizar o projeto no CodePen, clique [aqui](https://codepen.io/fl4m3x/pen/xxGOzBK)
 
 ### :recycle: Como contribuir
 
